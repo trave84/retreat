@@ -17,13 +17,16 @@ body {
 }
 
 .circles{
-    width: 12rem;
-    height: 12rem;
+    width: 15rem;
+    height: 15rem;
     border-radius: 6rem;
     background-color: #4F6A13;
     border: #4F6A13  1rem solid;
 }
+#middle{
+    width: 50%;
 
+}
 
 #circle1 {
     position: fixed;
@@ -42,6 +45,7 @@ body {
     top: 40rem;
     left: 20rem;
 }
+
 
 #intro {
     padding: 0 10% 0 10%;
