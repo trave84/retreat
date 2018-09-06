@@ -17,24 +17,30 @@ body {
 }
 
 .circles{
-    border-radius: 2rem;
+    width: 12rem;
+    height: 12rem;
+    border-radius: 6rem;
     background-color: #4F6A13;
-
+    border: #4F6A13  1rem solid;
 }
 
 
 #circle1 {
-    position: absolute;
+    position: fixed;
     top: 5rem;
-    left: 6rem;
+    left: 20rem;
 }
 
 
 #circle2 {
-    
+    position: fixed;
+    top: 15rem;
+    left: 40rem;
 }
 #circle3 {
-    
+    position: fixed;
+    top: 40rem;
+    left: 20rem;
 }
 
 #intro {
