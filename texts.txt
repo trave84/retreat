@@ -1,0 +1,39 @@
+Crownsnest Retreat</title>
+
+We organise a retreat camp in the forests of The Castle-Crowsnest Watershed Natural Area (CCWNA) in southwest Alberta, Canada. The camp allows you to withdraw for two weeks from all the stresses of life in the city and enjoy an intimate connection with nature, meet new people and heal your inner self.
+
+Pure Nature
+Living for two weeks in a tent deep inside woods far from any distractions of civilization.
+
+Peace of Mind
+No electronic devices are allowed in the camp area. No access to internet or mobile network.
+
+Community
+Cooking and eating together, workshops and activities in nature, sharing and bonding.
+
+SIGN UP
+We carefully choose the participants of our camp to create balanced and safe social environment where individuals can easily fit in. We strive to provide an uplifting experience for everyone and allow for new experiences and personal growth.
+
+If you are interested to participate in the 2019 retreat please send as a short motivational letter to [our email](application@crownswest-retreat.org) and we will contact you with further details. 
+
+
+text 1
+HEX #FFFFFF
+RGB 255, 255, 255
+
+background 1
+HEX #4F6A13
+RGB 79, 106, 19
+
+background 2
+HEX #2D4823
+RGB 45, 72, 35
+
+text 2
+HEX #D3D3D3
+RGB 211, 211, 211
+
+Fonts
+Open Sans Regular - for regular text
+Open Sans Bold - for bold text
+From the woods for heading 1

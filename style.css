@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+body {
+    margin: 0;
+    width: 100vw;
+    background-image: url('img/bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.circles{
+    border-radius: 2rem;
+    background-color: #4F6A13;
+
+}
+
+
+#circle1 {
+    position: absolute;
+    top: 5rem;
+    left: 6rem;
+}
+
+
+#circle2 {
+    
+}
+#circle3 {
+    
+}
+
+#intro {
+    padding: 0 10% 0 10%;
+}
+
+
+  
+
+
+
+
+/* 
+text 1
+HEX #FFFFFF
+RGB 255, 255, 255
+
+background 1
+HEX #4F6A13
+RGB 79, 106, 19
+
+background 2
+HEX #2D4823
+RGB 45, 72, 35
+text 2
+HEX #D3D3D3
+RGB 211, 211, 211
+Fonts
+Open Sans Regular - for regular text
+Open Sans Bold - for bold text
+From the woods for heading 1 */
